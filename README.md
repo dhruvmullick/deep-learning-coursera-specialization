@@ -9,5 +9,6 @@ Programming Assignments for some of the Coursera Deep Learning Specialisation Mo
  4. Week 4 -> Using Tensorflow, build face detection and recognition systems (Siamese networks); Neural Style Transfer
 
 2. Sequence Models
- 1. Week 1 -> Using Tensorflow and Keras, build LSTM and RNN units, language modeling, music generator
- 2. Week 2 -> Using Tensorflow and Keras, use embedding words, create LSTM network and also word embedding method for getting emojis for sentence.
+ 1. Week 1 -> Using Keras, build LSTM and RNN units, language modeling, music generator
+ 2. Week 2 -> Using Keras, use embedding words, create LSTM network and also word embedding method for getting emojis for sentence
+ 3. Week 3 -> Using Keras, build a trigger word detection system and a machine translation system.
